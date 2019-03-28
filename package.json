@@ -1,8 +1,14 @@
 {
   "name": "tic-tac-toe-reactjs",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "license": "MIT",
   "repository": "sujit510/react-tictactoe",
+  "keywords": [
+    "react",
+    "tic-tac-toe",
+    "sujit",
+    "sujit510"
+  ],
   "dependencies": {
     "react": "^16.8.2",
     "react-dom": "^16.8.2",
