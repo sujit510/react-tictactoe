@@ -1,10 +1,11 @@
 {
   "name": "tic-tac-toe-reactjs",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "license": "MIT",
   "repository": "sujit510/react-tictactoe",
   "keywords": [
     "react",
+    "reactjs",
     "tic-tac-toe",
     "sujit",
     "sujit510"
